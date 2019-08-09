@@ -1,2 +1,2 @@
-# Object-Recognition-using-Artificial-Intelligence
-Object Recognition using Artificial Intelligence.
+# Object-Recognition-using-Machine-Learning
+Object Recognition using Machine Learning in digital images and videos.
